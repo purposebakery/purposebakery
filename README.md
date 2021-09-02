@@ -1,3 +1,5 @@
+[![purposebakery](https://purposebakery.com/wp-content/uploads/2017/09/cropped-bread.png)][1]
+
 ### 🖖🏼 Hello!
 
 I'm Oliver and I develop software professionally and for fun. 
