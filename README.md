@@ -1,16 +1,29 @@
-### Hi there 👋
+### 🖖🏼 Hello!
 
-<!--
-**purposebakery/purposebakery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oliver and I develop software professionally and for fun. 
 
-Here are some ideas to get you started:
+### 🥐 My bakery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bake the flavours Android and Flutter. Usually assisted by [Jenkins](https://www.jenkins.io/), git, an agile board and a hot cup of something.   
+
+### 🌳 Stuff I love
+
+- Planet earth and existence!
+- Software development
+- Clean code 
+- Authentic italian pizza
+
+### ⛄ Projects current and past
+
+- [BNZ Mobile](https://play.google.com/store/apps/details?id=nz.co.bnz.droidbanking)
+- [Fussball.DE](https://play.google.com/store/apps/details?id=de.dfbmedien.FussballDE)
+- [BFV](https://play.google.com/store/apps/details?id=de.bfv.android) 
+- [Brillux](https://play.google.com/store/apps/details?id=de.brillux.brilluxapp)
+
+### 🔮 Contact
+
+- LinkedIn: [linkedin.com/in/oliver-metz](https://www.linkedin.com/in/oliver-metz/)
+- Twitter: [@metz_oliver](https://twitter.com/metz_oliver)
+- Blog: [purposebakery.com](https://purposebakery.com)
+
+
