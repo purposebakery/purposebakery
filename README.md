@@ -1,4 +1,4 @@
-[![purposebakery](https://purposebakery.com/wp-content/uploads/2017/09/cropped-bread.png)][1]
+![purposebakery](https://purposebakery.com/wp-content/uploads/2017/09/cropped-bread.png)
 
 ### 🖖🏼 Hello!
 
