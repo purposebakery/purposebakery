@@ -6,7 +6,7 @@ I'm Oliver and I develop software professionally and for fun.
 
 ### 🥐 My bakery
 
-I generally bake the Android and Flutter flavours and am assisted by [Jenkins](https://www.jenkins.io/), git, an agile board and a hot cup of something. I'm currently working for [Bank of New Zealand](https://www.bnz.co.nz/) and it's awesome crew.
+I generally bake the Android and Flutter flavours and am assisted by [Jenkins](https://www.jenkins.io/), git, an agile board and a hot cup of something. I'm currently working for [Bank of New Zealand](https://www.bnz.co.nz/) and its awesome crew.
 
 ### ⛄ Projects current and past (some)
 
