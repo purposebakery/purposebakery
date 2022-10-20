@@ -31,4 +31,3 @@ I'm always happy to get to know others. Get in touch via:
 
 - LinkedIn: [linkedin.com/in/oliver-metz](https://www.linkedin.com/in/oliver-metz/)
 - Twitter: [@metz_oliver](https://twitter.com/metz_oliver)
-- Blog: [purposebakery.com](https://purposebakery.com)
