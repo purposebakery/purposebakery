@@ -1,5 +1,3 @@
-![purposebakery](https://purposebakery.com/wp-content/uploads/2017/09/cropped-bread.png)
-
 ### 🖖🏼 Hello!
 
 I'm Oliver and I develop software professionally and for fun. 
@@ -32,4 +30,3 @@ I generally bake the Android and Flutter flavours and am assisted by git, pipeli
 I'm always happy to get to know others. Get in touch via: 
 
 - LinkedIn: [linkedin.com/in/oliver-metz](https://www.linkedin.com/in/oliver-metz/)
-- Twitter: [@metz_oliver](https://twitter.com/metz_oliver)
