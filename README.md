@@ -4,7 +4,7 @@ I'm Oliver and I develop software professionally and for fun.
 
 ### 🥐 My bakery
 
-I generally bake the Android and Flutter flavours and am assisted by git, pipelines, an agile board and a hot cup of something. I'm currently working for [Basis](https://www.wearebasis.com/) and its awesome crew.
+I generally bake the Android and Flutter flavours and am assisted by git, pipelines, an agile board and a hot cup of something.
 
 ### ⛄ Projects current and past (some)
 
